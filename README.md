@@ -1,2 +1,2 @@
 # Uber_Drives_Data_Analysis
-Exploring the Uber drives of 2016
+To carry out an exploratory data analysis of the Uber Drives during the period of 2016-17.
